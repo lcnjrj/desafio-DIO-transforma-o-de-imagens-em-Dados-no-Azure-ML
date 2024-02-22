@@ -12,5 +12,10 @@ https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04
 https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/05-ocr.html
 https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html
 
+O serviço de reconhecimento de texto teve alguma dificuldade em formatos de texto diferentes do padronizado, como no cartoon em que mostra o texto fora da ordem contextual, e em analiza de imagens não conseguiu identificar imagens irreverentes. De resto é um bom recurso mas que ainda precisa de supervisão humana para garantir que a interpretação do contexto esteja correta.
+
+
 Prints na pasta imagens deste repositório.
-Arquivo pdf com detalhes.
+Em breve arquivo pdf com detalhes.
+
+Luciana J de Faria
